@@ -1,0 +1,275 @@
+# [Countryname] Language File for WP-DOPPLR (wp-dopplr-[localname].po).
+# Copyright (C) 2009 Ferran Rodenas
+# This file is distributed under the same license as the WP-DOPPLR package.
+# Ferran Rodenas <frodenas@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-DOPPLR 1.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-dopplr\n"
+"POT-Creation-Date: 2009-09-14 00:30+0100\n"
+"PO-Revision-Date: 2009-09-14 00:37+0100\n"
+"Last-Translator: Ferran Rodenas <frodenas@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-dopplr.php:83
+msgid "Past trips"
+msgstr "Viajes realizados"
+
+#: wp-dopplr.php:99
+msgid "Planned trips"
+msgstr "Viajes planificados"
+
+#: wp-dopplr.php:112
+msgid " and has planned a trip to "
+msgstr " y tiene un viaje planificado a "
+
+#: wp-dopplr.php:114
+msgid " and has planned trips to"
+msgstr " y tiene viajes planificados a"
+
+#: wp-dopplr.php:154
+msgid " is at home in "
+msgstr " est&aacute; en casa en "
+
+#: wp-dopplr.php:156
+msgid " is in "
+msgstr " est&aacute; en "
+
+#: wp-dopplr.php:181
+#, php-format
+msgid "It's %s at %s's current location"
+msgstr "S&oacute;n las %s en la localizaci&oacute;n actual de %s"
+
+#: wp-dopplr.php:244
+msgid "It's "
+msgstr "S&oacute;n las "
+
+#: wp-dopplr.php:244
+#: wp-dopplr.php:278
+#: wp-dopplr.php:281
+msgid " in "
+msgstr " en "
+
+#: wp-dopplr.php:276
+msgid " from "
+msgstr " desde "
+
+#: wp-dopplr.php:276
+msgid " to "
+msgstr " hasta "
+
+#: wp-dopplr.php:322
+msgid "Widget title"
+msgstr "T&iacute;tulo del widget"
+
+#: wp-dopplr.php:331
+#: wp-dopplr.php:343
+#: wp-dopplr.php:344
+#: wp-dopplr.php:474
+msgid "Dopplr"
+msgstr "Dopplr"
+
+#: wp-dopplr.php:342
+msgid "Displays your DOPPLR travel information"
+msgstr "Muestra tu informaci&oacute;n de viajes de DOPPLR"
+
+#: wp-dopplr.php:477
+#: wp-dopplr.php:680
+msgid "DOPPLR Settings"
+msgstr "Opciones de DOPPLR"
+
+#: wp-dopplr.php:486
+msgid "Settings"
+msgstr "Opciones"
+
+#: wp-dopplr.php:655
+msgid "DOPPLR Authorization"
+msgstr "Autorizaci&oacute;n de DOPPLR"
+
+#: wp-dopplr.php:659
+msgid "Before you get started, please"
+msgstr "Antes de empezar, por favor"
+
+#: wp-dopplr.php:659
+#: wp-dopplr.php:668
+msgid "sign in"
+msgstr "inicia sesi&oacute;n"
+
+#: wp-dopplr.php:659
+#: wp-dopplr.php:668
+msgid "to your DOPPLR account."
+msgstr "en tu cuenta de DOPPLR."
+
+#: wp-dopplr.php:665
+msgid "Dismiss"
+msgstr "Desechar"
+
+#: wp-dopplr.php:668
+msgid "Authorization key to access to your DOPPLR account is invalid. Please,"
+msgstr "La clave de autorizaci&oacute;n para acceder a tu cuenta de DOPPLR es invalida. Por favor,"
+
+#: wp-dopplr.php:672
+msgid "cURL functions are not available. In order to use WP-DOPPLR, you must install the cURL functions"
+msgstr "Las funciones de cURL no est&aacute;n disponibles. Para usar WP-DOPPLR, debes instalar las funciones de cURL"
+
+#: wp-dopplr.php:684
+#: wp-dopplr.php:690
+msgid "Trips"
+msgstr "Viajes"
+
+#: wp-dopplr.php:690
+msgid "Display past trips"
+msgstr "Mostrar viajes pasados"
+
+#: wp-dopplr.php:696
+msgid "Display future trips"
+msgstr "Mostrar viajes futuros"
+
+#: wp-dopplr.php:699
+#: wp-dopplr.php:705
+msgid "Travel dates"
+msgstr "Fechas del viaje"
+
+#: wp-dopplr.php:705
+msgid "Display trip's start date"
+msgstr "Mostrar la fecha de inicio del viaje"
+
+#: wp-dopplr.php:711
+msgid "Display trip's finish date"
+msgstr "Mostrar la fecha de finalizaci&oacute;n del viaje"
+
+#: wp-dopplr.php:714
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: wp-dopplr.php:719
+#: wp-dopplr.php:727
+msgid "Output"
+msgstr "Salida"
+
+#: wp-dopplr.php:722
+msgid "Time format"
+msgstr "Formato de hora"
+
+#: wp-dopplr.php:728
+msgid "Documentation on date and time formatting"
+msgstr "Documentaci&oacute;n sobre formatos de fecha y hora"
+
+#: wp-dopplr.php:728
+msgid "Click \"Update Options\" to update sample output"
+msgstr "Pulsa \"Guardar cambios\" para actualizar el ejemplo de salida"
+
+#: wp-dopplr.php:731
+#: wp-dopplr.php:745
+msgid "Cities links"
+msgstr "Enlaces a ciudades"
+
+#: wp-dopplr.php:745
+msgid "No links"
+msgstr "Sin enlaces"
+
+#: wp-dopplr.php:746
+msgid "Link to trip info"
+msgstr "Enlazar a la informaci&oacute;n del viaje"
+
+#: wp-dopplr.php:747
+msgid "Link to place info"
+msgstr "Enlazar a la informaci&oacute;n de la ciudad"
+
+#: wp-dopplr.php:748
+msgid "Link to Google Maps"
+msgstr "Enlazar a Google Maps"
+
+#: wp-dopplr.php:751
+#: wp-dopplr.php:757
+msgid "City Colour"
+msgstr "Colores de ciudad"
+
+#: wp-dopplr.php:757
+msgid "Display icon city colour"
+msgstr "Mostrar el icono de color de la ciudad"
+
+#: wp-dopplr.php:763
+msgid "Display coloured city name"
+msgstr "Mostrar el nombre de la ciudad coloreado"
+
+#: wp-dopplr.php:766
+msgid "Countries"
+msgstr "Pa&iacute;ses"
+
+#: wp-dopplr.php:772
+msgid "Display countries"
+msgstr "Mostrar pa&iacute;ses"
+
+#: wp-dopplr.php:775
+msgid "Local Time"
+msgstr "Hora local"
+
+#: wp-dopplr.php:785
+msgid "You need PHP version >= 5.1.0 to enable this option"
+msgstr "Necesitas una versi&oacute;n de PHP >= 5.1.0 para activar esta opci&oacute;n"
+
+#: wp-dopplr.php:787
+msgid "Display cities local time"
+msgstr "Mostrar la hora local de las ciudades"
+
+#: wp-dopplr.php:790
+msgid "Cache expire time"
+msgstr "Tiempo de expiraci&oacute;n de la cach&eacute;"
+
+#: wp-dopplr.php:794
+msgid "hours"
+msgstr "horas"
+
+#: wp-dopplr.php:795
+msgid "WP-DOPPLR caches your Dopplr information so it can be used often without having to retrieve it on every page load."
+msgstr "WP-DOPPLR almacena la informaci&oacute;n que devuelve Dopplr para que pueda ser utilizada frecuentemente sin necesidad de recuperarla en cada petici&oacute;n de p&aacute;gina."
+
+#: wp-dopplr.php:795
+msgid "Since the information Dopplr returns to the request is unchanged in a high percentage of requests, specify a higher cache expire time in order to gain the maximum performance."
+msgstr "Ya que la informaci&oacute;n que Dopplr devuelve no se modifica en un gran porcentaje de peticiones, especifica un tiempo de expiraci&oacute;n de la cach&eacute; elevado para obtener el m&aacute;ximo rendimiento."
+
+#: wp-dopplr.php:798
+msgid "Update Options"
+msgstr "Guardar cambios"
+
+#: wp-dopplr.php:817
+msgid "Cache Contents"
+msgstr "Contenido de la cach&eacute;"
+
+#: wp-dopplr.php:821
+msgid " Cached Queries"
+msgstr " Consultas en la cach&eacute;"
+
+#: wp-dopplr.php:824
+msgid " Expired Queries"
+msgstr " Consultas en la cach&eacute; caducadas"
+
+#: wp-dopplr.php:827
+msgid "Delete Cache"
+msgstr "Borrar cach&eacute;"
+
+#. Plugin Name of an extension
+msgid "WP-DOPPLR"
+msgstr "WP-DOPPLR"
+
+#. Plugin URI of an extension
+msgid "http://www.rodenas.org/blog/2007/10/09/wp-dopplr/"
+msgstr "http://www.rodenas.org/blog/2007/10/09/wp-dopplr/"
+
+#. Description of an extension
+msgid "WP-DOPPLR is a Wordpress plugin that displays your <a href=\"http://www.dopplr.com/\">DOPPLR</a> travel information on your blog. <a href=\"options-general.php?page=wp-dopplr.php\">Configure your settings here</a> and <a href=\"widgets.php\">add the widget here</a>."
+msgstr "WP-DOPPLR es un plugin de Wordpress que muestra tu informaci&oacute;n de viajes de <a href=\"http://www.dopplr.com/\">DOPPLR</a> en tu blog. <a href=\"options-general.php?page=wp-dopplr.php\">Configura las opciones aqu&iacute;</a> y <a href=\"widgets.php\">a&ntilde;ade el widget aqu&iacute;</a>."
+
+#. Author of an extension
+msgid "Ferran Rodenas"
+msgstr "Ferran Rodenas"
+
+#. Author URI of an extension
+msgid "http://www.rodenas.org/blog/"
+msgstr "http://www.rodenas.org/blog/"
+
